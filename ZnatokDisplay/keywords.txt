@@ -1,0 +1,20 @@
+  
+#######################################
+# Syntax Coloring Map For Display
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ZnatokDisplay  	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+printNumber	KEYWORD2
+printSeconds	KEYWORD2
+printVoltage	KEYWORD2
+printDistance	KEYWORD2
+printMinutesSeconds	KEYWORD2
